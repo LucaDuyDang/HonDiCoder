@@ -1,9 +1,9 @@
-🙌 Hi there, I'm Daniels my friends call me Dan.
-I'm from VietNam 🇻🇳 
+🙌 Hi there, I'm Daniels my friends call me Luca.
+I'm from VietNam
 And i'm 24 year old 🥴
 Nice to meet you guys
 
-🧑🏻‍💻I'm a Software Engineer in : ( Front-End; Moblie ) 
+🧑🏻‍💻I'm a Software Engineer in : ( Back-End Java - Salesforce ) 
 I'm still looking for a opportunity for intern or any job require. I have one year work on Front-End at :( HTML,CSS,Javascript,React,Nextjs ).
 
 - 🍀 I'm interested in engineer
@@ -16,4 +16,5 @@ How to react me :
   - In git hub
   - Facebook : Duy
   - Email : devDaniels.work@gmail.com
+  - Linkedln :www.linkedin.com/in/hoangduydev
 
