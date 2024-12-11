@@ -1,4 +1,4 @@
-🙌 Hi there, I'm Daniels my friends call me Luca.
+🙌 Hi there, I'm Hoang Duy my nickname was Luca.
 I'm from VietNam
 And i'm 24 year old 🥴
 Nice to meet you guys
@@ -13,8 +13,7 @@ I'm still looking for a opportunity for intern or any job require. I have one ye
 
 How to react me : 
   - Phone : 0354.787.067
-  - In git hub
-  - Facebook : Duy
+  - Facebook : Hoang Duy
   - Email : devDaniels.work@gmail.com
   - Linkedln :www.linkedin.com/in/hoangduydev
 
